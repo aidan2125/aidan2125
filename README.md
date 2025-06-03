@@ -25,9 +25,9 @@ I thrive in fast-paced environments and enjoy solving problems through code, col
 
  💡 Interests
 - Exploring new technologies
-- Gaming & soccer
-- Fitness & gym routines
-- Building smart tools that make life easier
+- Gaming & Football
+- Fitness 
+
 
   📫 Contact Me
 - 📧 Email: aidanbotha15@gmail.com  
