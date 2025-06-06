@@ -11,7 +11,7 @@ I thrive in fast-paced environments and enjoy solving problems through code, col
 - Currently pursuing a Bachelor of Commerce in Information Technology (BCom IT)
 
  🔧 Technical Skills
-- HTML, Java
+- HTML, Java , JavaScript
 - Information Systems
 - Computer Hardware & Architecture
 - Operating Systems
