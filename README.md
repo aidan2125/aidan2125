@@ -1,6 +1,6 @@
  Aidan Botha | Software Developer & IT Technician
 
-Hi, I’m Aidan — a passionate and driven IT professional based in Cape Town. I currently work as a Digital Associate at CAPACITI, where I apply my technical and analytical skills to build impactful, real-world digital solutions.
+Hi, I’m Aidan , a passionate and driven IT professional based in Cape Town. I currently work as a Digital Associate at CAPACITI, where I apply my technical and analytical skills to build impactful, real-world digital solutions.
 
 I hold a Higher Certificate in Information Technology and am currently studying towards a Bachelor of Commerce in Information Technology (BCom IT). My focus lies in blending business insight with technical skills to solve complex challenges in creative and scalable ways.
 
