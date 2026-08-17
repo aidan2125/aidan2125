@@ -1,34 +1,24 @@
-# Aidan Botha | IT Professional & Software Developer
+# Aidan Botha | IT Student & Aspiring Technology Professional
 
-Hi, I'm **Aidan Botha**, an IT professional and developer based in Cape Town, South Africa.
+Hi, I'm **Aidan Botha**, an IT student based in Cape Town, South Africa.
 
-I’m interested in using **technology, software, and automation to solve practical problems**. Rather than focusing purely on software development as an end goal, I enjoy understanding a problem, figuring out how technology can improve it, and building solutions that are useful in the real world.
+I'm currently studying towards a **Bachelor of Commerce in Information Technology (BCom IT)** while building practical experience through personal projects, university work, and real-world digital projects.
 
-I currently work as a **Digital Associate at CAPACITI**, where I apply technical, analytical, and problem-solving skills to digital projects and real-world business requirements.
+I'm still early in my technical journey, but I'm actively working on expanding my skills across **software development, web development, Linux, systems, databases, networking, and automation**.
 
-I hold a **Higher Certificate in Information Technology** and am currently studying towards a **Bachelor of Commerce in Information Technology (BCom IT)**.
+What interests me most about technology is understanding **how different pieces fit together and how they can be used to solve practical problems**.
 
-My interests sit at the intersection of:
-
-- Software Development
-- IT & Systems
-- Web Development
-- Linux & Infrastructure
-- Automation
-- Digital Solutions
-- Business & Technology
+I'm not trying to specialise in one area too early. Instead, I'm using my studies and projects to build a strong technical foundation and discover where my skills and interests develop over time.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Commerce in Information Technology (BCom IT)**  
-Currently studying
+### Bachelor of Commerce in Information Technology (BCom IT)
 
-**Higher Certificate in Information Technology**  
-Completed
+**Currently studying**
 
-Relevant areas of study and experience include:
+My studies are helping me develop a foundation in both **technology and business**, with areas including:
 
 - Programming
 - Data Structures & Algorithms
@@ -37,227 +27,300 @@ Relevant areas of study and experience include:
 - Information Systems
 - Networking
 - Web Development
-- Database Systems
-- IT & Business Systems
+- Databases
+- Business & IT Systems
+
+### Higher Certificate in Information Technology
+
+**Completed**
+
+The qualification introduced me to fundamental areas of IT including:
+
+- Programming
+- Networking
+- Information Systems
+- Web Development
+- End-User Computing
+- Digital Transformation
 
 ---
 
-## 🔧 Technical Skills
+## 🧑‍💻 My Current Technical Journey
 
-### Programming & Development
+I'm currently developing my skills from a **beginner to intermediate level**, with a focus on understanding fundamentals rather than simply learning frameworks and tools.
 
+### Programming
+
+Currently working with:
+
+- Python
 - Java
 - JavaScript
-- Python
-- HTML5
-- CSS3
-- React
-- Node.js
+- HTML
+- CSS
+
+I'm using these languages to strengthen my understanding of programming fundamentals, problem solving, algorithms, and application development.
 
 ### Web Development
 
-- Astro
-- Responsive Web Design
-- Front-End Development
+I've gained practical experience with:
+
 - WordPress
 - WooCommerce
+- Responsive Web Design
+- JavaScript
+- React
+- Astro
+- Vite
+- Tailwind CSS
+- Node.js
 - SEO
 - CMS Development
 
+My web development experience has mainly come from building websites, experimenting with different technologies, and working on real-world projects.
+
 ### Databases
+
+Currently developing my understanding of:
 
 - PostgreSQL
 - Supabase
 - PostGIS
+- Relational Databases
+- Database Design
 
-### Systems & Infrastructure
+### Linux & Systems
 
-- Linux
+I'm actively building my Linux and systems knowledge through hands-on experimentation with:
+
 - Linux Mint
+- Command-line tools
+- SSH
 - Networking
-- Computer Hardware & Architecture
-- Operating Systems
-- Virtualisation
-- System Administration
+- Virtual Machines
+- Libvirt / QEMU
+- System Configuration
+- Basic System Administration
+- Hardware Troubleshooting
 
-### Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Netlify
-- Vite
-- Tailwind CSS
-- Node.js
-- npm
+I'm particularly interested in understanding **what happens underneath the applications I build**, rather than treating infrastructure as a completely separate area.
 
 ---
 
-## 💻 What I Build
+## 🚀 Projects
 
-My projects generally focus on applying technology to practical problems.
-
-Some areas I've worked with include:
-
-- Business websites and digital platforms
-- Web applications
-- Automation tools
-- Python-based projects
-- Linux environments
-- System configuration
-- Database-backed applications
-- Digital business solutions
-- SEO and digital optimisation
-- Technical troubleshooting
-
-I enjoy working across different layers of technology — from writing code and designing interfaces to configuring systems and understanding how everything fits together.
-
----
-
-## 🚀 Featured Projects
+A large part of my learning comes from actually building things.
 
 ### Plane View Collective
 
-The official digital platform for **Plane View Collective**, combining web development, digital strategy, branding, and portfolio presentation.
+A digital platform and growing business project that I'm involved with, combining web development, digital strategy, branding, and content.
 
-**Technologies include:**
+I've used the project as an opportunity to gain experience with:
 
 - Astro
-- Tailwind CSS
-- Vite
 - JavaScript
+- Tailwind CSS
+- Git & GitHub
 - Netlify
-- Git
+- Responsive Web Design
+- Website Deployment
+- Digital Strategy
 
-🔗 [View Project](https://planeview.co.za/)
+**Project:** [planeview.co.za](https://planeview.co.za/)
 
 ---
 
 ### Chemcrete
 
-A professional digital presence developed for **Chemcrete** as part of Plane View Collective's web design and digital development work.
+A website developed as part of Plane View Collective's digital work.
 
-**Focus areas:**
+The project gave me practical experience with:
 
-- Web Design
 - Web Development
-- Branding
-- Digital Marketing
 - Responsive Design
+- Website Deployment
+- Branding
+- Digital Presentation
 
-🔗 [View Project](https://chemcretev1.netlify.app/)
+**Project:** [chemcretev1.netlify.app](https://chemcretev1.netlify.app/)
 
 ---
 
 ### Unexpected Opportunities
 
-A community-focused digital platform developed collaboratively as part of Plane View Collective's web design and digital development work.
+A collaborative website project developed as part of Plane View Collective's work.
 
-**Focus areas:**
+The project involved:
 
-- Web Design
 - Web Development
-- NGO Branding
-- Digital Strategy
 - Responsive Design
+- Branding
+- Digital Strategy
+- Collaboration
 
-🔗 [View Project](https://unexpectedopportunities.netlify.app/)
+**Project:** [unexpectedopportunities.netlify.app](https://unexpectedopportunities.netlify.app/)
 
 ---
 
-### Python & Linux Projects
+## 🐍 Python Projects
 
-I also use personal projects to develop practical skills in:
+I'm currently working through Python projects and exercises to strengthen my programming fundamentals.
 
-- Python
-- Linux
-- Automation
-- APIs
-- Data processing
-- System administration
+My focus is on becoming comfortable with:
+
+- Variables and Data Types
+- Conditional Logic
+- Loops
+- Functions
+- Lists and Dictionaries
+- File Handling
+- Modules
+- Problem Solving
+
+
+Rather than rushing through projects, I'm using them to build a stronger programming foundation.
+
+---
+
+## 🐧 Linux & Systems Learning
+
+I'm also working through Linux and systems-related projects to develop a better understanding of how computers and networks operate.
+
+Some of the things I've been experimenting with include:
+
+- Linux Administration
+- SSH
+- Networking
 - Virtualisation
-- Git
-- Command-line tooling
+- Libvirt
+- QEMU
+- Virtual Machines
+- System Permissions
+- Hardware
+- Troubleshooting
+
+This is an area I'm particularly interested in exploring further as my technical knowledge develops.
 
 ---
 
-## 🧠 Currently Learning
+## 📚 Currently Learning
 
-I'm continuously developing my technical skills through university studies, practical projects, and self-directed learning.
+I'm continuously adding to my technical foundation.
 
-Current areas of focus include:
+### Current Focus
 
 - Python
-- Linux
-- System Administration
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Java
+- Linux
 - Networking
-- Automation
+- System Administration
 - Virtualisation
-- Backend Development
-- Database Systems
-- Cloud & Infrastructure Concepts
-
----
-
-## 🤝 Professional Strengths
-
-- Problem solving
-- Technical troubleshooting
-- Team collaboration
-- Communication
-- Adaptability
-- Analytical thinking
-- Time management
-- Continuous learning
-- Translating business requirements into technical solutions
-
----
-
-## 🎯 Career Direction
-
-My long-term goal is to work at the intersection of **IT, software, systems, and business**.
-
-I'm particularly interested in roles where technology is used as a practical solution to business and operational problems, including areas such as:
-
-- Solutions Engineering
-- Systems Administration
-- IT & Systems Engineering
 - Automation
-- Technical Consulting
+- Backend Development
+- Git & GitHub
+
+My approach is simple:
+
+> **Learn → Build → Break things → Troubleshoot → Understand → Improve**
+
+---
+
+## 🛠️ Tools & Technologies
+
+These are technologies I've had exposure to through my studies, projects, and personal learning.
+
+### Languages
+
+`Python` `Java` `JavaScript` `HTML` `CSS`
+
+### Web
+
+`React` `Astro` `Node.js` `Vite` `Tailwind CSS` `WordPress` `WooCommerce`
+
+### Databases
+
+`PostgreSQL` `Supabase` `PostGIS`
+
+### Systems
+
+`Linux` `SSH` `Networking` `Libvirt` `QEMU` `Virtualisation`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Netlify` `npm`
+
+> I'm still developing proficiency across these technologies, with some being areas of stronger practical experience than others.
+
+---
+
+## 🧠 What I'm Trying to Develop
+
+At this stage of my career, I'm less focused on claiming expertise and more focused on **building a strong technical foundation**.
+
+I'm working towards becoming someone who can:
+
+- Understand a technical problem
+- Break it down into smaller problems
+- Research possible solutions
+- Build and test a solution
+- Troubleshoot when things don't work
+- Understand the systems involved
+- Communicate technical ideas clearly
+- Connect technical solutions to actual business needs
+
+I believe being able to **learn and adapt** is just as important as knowing a particular technology.
+
+---
+
+## 🎯 Where I'm Heading
+
+I'm still figuring out exactly where I want to specialise.
+
+At the moment, I'm interested in the intersection of:
+
+**Technology + Systems + Software + Business**
+
+Areas I'm exploring include:
+
+- IT & Systems
 - Software Development
+- Automation
+- Systems Administration
+- Solutions Engineering
 - Business Technology
 - Technical Operations
+- Infrastructure
 
-I enjoy building things, but I'm equally interested in understanding **why something should be built and how it can solve a real problem**.
+Rather than choosing a path based purely on a job title, I'm using my studies and projects to gain exposure to different areas and see where I can eventually develop deeper expertise.
 
 ---
 
-## 💡 Interests
+## 🌱 The Journey
 
-Outside of technology, I enjoy:
+I'm still early in my career, and this GitHub profile is part of documenting that journey.
 
-- 🎮 Gaming
-- ⚽ Football
-- 💪 Fitness
-- 💻 Exploring new technologies
-- 🧠 Learning new technical skills
+Some repositories are polished projects. Others are experiments, university work, learning exercises, or things I built while figuring something out.
+
+That's intentional.
+
+I'm using GitHub to **learn in public, build a portfolio, track my progress, and gradually improve the quality of my work.**
+
+My goal isn't to appear like I already know everything.
+
+It's to show that **I'm consistently learning, building, experimenting, and getting better.**
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** [aidanbotha15@gmail.com](mailto:aidanbotha15@gmail.com)
+**Email:** [aidanbotha15@gmail.com](mailto:aidanbotha15@gmail.com)
 
-📞 **Phone:** 083 966 9392
+**LinkedIn:** [linkedin.com/in/aidan-botha-68399a191](https://www.linkedin.com/in/aidan-botha-68399a191/)
 
-💼 **LinkedIn:** [linkedin.com/in/aidan-botha-68399a191](https://www.linkedin.com/in/aidan-botha-68399a191/)
+**GitHub:** [github.com/aidan2125](https://github.com/aidan2125)
 
-🖥️ **GitHub:** [github.com/aidan2125](https://github.com/aidan2125)
-
-🌐 **Plane View Collective:** [planeview.co.za](https://planeview.co.za/)
+**Plane View Collective:** [planeview.co.za](https://planeview.co.za/)
 
 ---
 
@@ -265,16 +328,12 @@ Outside of technology, I enjoy:
 
 Most of the repositories here represent a combination of:
 
-- University projects
+- University work
 - Personal learning
 - Web development
-- IT & systems work
-- Automation
-- Experiments
-- Real-world client projects
+- Python projects
+- Linux and systems experimentation
+- Real-world projects
+- Technical experiments
 
-I'm continuously building, learning, and improving.
-
----
-
-**Thanks for stopping by!**
+I'm continuously learning, building, and improving.
